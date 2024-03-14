@@ -1,5 +1,5 @@
 #include <iostream>
-#include <ctime>1
+#include <ctime>
 #define MAX_CADASTRO 50
 
 using namespace std;
