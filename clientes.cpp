@@ -85,7 +85,7 @@ int main()
 
     do
     {
-        cout << endl;
+        cout << "  ======================= " << endl;
         cout << "MENU" << endl;
         cout << "1 - Cadastrar cliente." << endl;
         cout << "2 - Listar clientes." << endl;
