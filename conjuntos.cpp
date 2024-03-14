@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-1
+
 #define MAX_TAMANHO 20
 #define MAX_CONJUNTO 10
 
