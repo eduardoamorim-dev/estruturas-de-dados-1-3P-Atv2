@@ -18,6 +18,7 @@ struct funcionario
     void ler()
     {
         cin.ignore();
+
         cout << "Nome: ";
         getline(cin, nome);
 
