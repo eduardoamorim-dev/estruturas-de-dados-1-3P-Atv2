@@ -234,6 +234,7 @@ int main()
 
     do
     {
+        cout << "  ======================= " << endl;
         cout << " - MENU -" << endl;
         cout << "1. Criar conjunto vazio" << endl;
         cout << "2. Ler os dados de um conjunto" << endl;
